@@ -1,6 +1,7 @@
 ### IMAGE GALLERY
 
 This Project the three parts divided first part Home click the calculator or Image Gallery go the main page 
+https://jaseemkhan211.github.io/Image-Gallery/.
 
 ![Home snapeshote](https://user-images.githubusercontent.com/60065412/78326783-aa3dae00-7594-11ea-9704-350355c0ccf4.PNG)
 
